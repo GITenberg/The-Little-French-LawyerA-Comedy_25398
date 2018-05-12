@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3603
     wikipedia: http://en.wikipedia.org/wiki/Francis_Beaumont
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25398#The-Little-French-LawyerA-Comedy
 gutenberg_issued: '2008-05-09'
 gutenberg_type: Text
 identifiers:
